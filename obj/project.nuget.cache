@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFJe3fTK5UnlEVf5bew/Qf0rsrrxi34R9LfLupGFtyovO3o3FNTPUgTRLRjvxrGBiHOl0Wz77fWS2fIOg+++IA==",
+  "success": true,
+  "projectFilePath": "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\taller-mecanico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvega\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
