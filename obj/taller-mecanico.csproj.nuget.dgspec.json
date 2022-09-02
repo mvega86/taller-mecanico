@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\taller-mecanico.csproj": {}
+    "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\taller-mecanico.csproj": {}
   },
   "projects": {
-    "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\taller-mecanico.csproj": {
+    "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\taller-mecanico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\taller-mecanico.csproj",
+        "projectUniqueName": "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\taller-mecanico.csproj",
         "projectName": "taller-mecanico",
-        "projectPath": "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\taller-mecanico.csproj",
+        "projectPath": "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\taller-mecanico.csproj",
         "packagesPath": "C:\\Users\\mvega\\.nuget\\packages\\",
-        "outputPath": "D:\\Desarrollo\\Proyectos .net\\taller-mecanico\\obj\\",
+        "outputPath": "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mvega\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,28 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
