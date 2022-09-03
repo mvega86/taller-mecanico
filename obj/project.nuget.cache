@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QiyATIsVtqVv7h3vXnVLXb8d8z0B2sm2lsECNDxbqPanAOzECnZpsFudmcsZ5o7O1LJ/o1UTD55XeWEnQ+TGaw==",
+  "dgSpecHash": "dRdYpTg+WnVvlsixr6QyMlrbFQPzlo8dwXf8lDYq9AyRzyl4p5THFXlstWnoojXypjjymzyOQ8+scHfEPeUIjA==",
   "success": true,
   "projectFilePath": "D:\\Desarrollo\\Proyectos .net\\Proyectos\\taller-mecanico\\taller-mecanico.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mvega\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\mvega\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\mvega\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mvega\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\mvega\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.8\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\mvega\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\mvega\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
