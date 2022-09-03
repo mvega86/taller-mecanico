@@ -14,5 +14,6 @@ namespace taller_mecanico.Data.DataContext
         }
 
         public DbSet<Customer> Customer { get; set; }
+        public DbSet<Mechanic1> Mechanic { get; set; }
     }
 }

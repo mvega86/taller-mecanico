@@ -6,7 +6,7 @@ using taller_mecanico.Data.Entities.Base;
 
 namespace taller_mecanico.Data.Entities
 {
-    public class Mechanic : EntityBase
+    public class Mechanic1 : EntityBase
     {
         public String FirstName { get; set; } = String.Empty;
         public String LastName { get; set; } = String.Empty;
